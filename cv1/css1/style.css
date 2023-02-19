@@ -1,0 +1,268 @@
+body {
+    background-color: red;
+    animation-name: example;
+    animation-duration: 60s;
+    animation-iteration-count: infinite;
+}
+
+@keyframes example {
+    10% {
+        background-color: red;
+    }
+
+    20% {
+        background-color: darkgoldenrod;
+    }
+
+    30% {
+        background-color: blue;
+    }
+
+    40% {
+        background-color: green;
+    }
+
+    50% {
+        background-color: coral;
+    }
+
+    60% {
+        background-color: crimson;
+    }
+
+    70% {
+        background-color: cyan;
+    }
+
+    80% {
+        background-color: blueviolet;
+    }
+
+    90% {
+        background-color: darkgray;
+    }
+
+    100% {
+        background-color: deeppink;
+    }
+}
+
+img {
+    width: 80px;
+}
+
+
+
+h3 {
+    position: fixed;
+    left: 65px;
+    top: 10px;
+    padding-left: 20px;
+}
+
+#myHeader {
+    text-align: center;
+    right: 20px;
+}
+
+img {
+    width: 500px;
+    height: 400px;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.somediv1 {
+    width: 440px;
+    height: 1200px;
+    left: 5px;
+    background-color: #0F4880;
+    margin-left: 20px;
+
+
+
+}
+
+.somediv1 {
+    display: flex;
+    color: white;
+    padding: 30px;
+    display: flow-root;
+    align-items: center;
+
+
+}
+
+h2 {
+    text-align: right;
+}
+
+p {
+    margin-top: 30px;
+    margin-left: 20px;
+    display: flex;
+    align-items: center;
+
+}
+
+div {
+    display: flex;
+    align-items: center;
+    display: flex;
+    align-items: center;
+
+}
+
+.photo {
+    width: 100px;
+    height: 100px;
+}
+
+.photo1 {
+    width: 40px;
+    height: 40px
+}
+
+.photo2 {
+    width: 40px;
+    height: 40px
+}
+
+.photo3 {
+    width: 40px;
+    height: 40px
+}
+
+
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgb(3, 3, 182)
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 14px;
+}
+
+li a:hover:not(.active) {
+    background-color: rgb(0, 238, 255);
+}
+
+.active {
+    background-color: rgb(0, 238, 255)
+}
+
+.somediv2 {
+    display: inline-block;
+    width: 730px;
+    height: 1665px;
+    background-color: white;
+    position: absolute;
+    left: 530px;
+    top: 211px;
+}
+
+h3 {
+    position: absolute;
+    left: 250px;
+    color: #0b6ac9;
+}
+
+.p1 {
+    position: absolute;
+    top: 70px;
+    left: 20px;
+    color: #0b6ac9;
+}
+
+.title {
+    position: absolute;
+    top: 50px;
+    left: 230px;
+}
+
+.title1 {
+    position: absolute;
+    top: 370px;
+    left: 260px;
+}
+
+.p2 {
+    position: absolute;
+    top: 400px;
+    left: 20px;
+    color: #0b6ac9;
+}
+
+.title2 {
+    position: absolute;
+    top: 650px;
+    left: 230px;
+}
+
+.p3 {
+    position: absolute;
+    top: 680px;
+    left: 20px;
+    color: #0b6ac9;
+}
+
+.title3 {
+    position: absolute;
+    top: 1110px;
+    left: 270px;
+}
+
+.p4 {
+    position: absolute;
+    top: 1150px;
+    left: 20px;
+    color: #0b6ac9;
+}
+
+.title4 {
+    position: absolute;
+    top: 1400px;
+    left: 210px;
+    color: #0b6ac9;
+}
+
+
+.tr1 {
+    position: absolute;
+    top: 1460px;
+    left: 200px;
+    color: #0b6ac9;
+    background-color: rgb(0, 255, 255);
+}
+
+
+
+.tr2 {
+    width: 310px;
+    position: absolute;
+    top: 1482px;
+    left: 200px;
+    color: #0b6ac9;
+    background-color: rgb(0, 255, 255);
+}
+
+.photo2 {
+    width: 40px;
+    height: 40px;
+}
+
+.photo3 {
+    width: 40px;
+    height: 40px;
+}

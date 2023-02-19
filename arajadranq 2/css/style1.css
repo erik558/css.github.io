@@ -1,0 +1,109 @@
+.rectangle-1{
+    width: 450px;
+    height: 360px;
+    background-color: rgb(202, 199, 199);
+    position: relative;
+    top: 30px;
+    margin-left: 20px;
+
+
+}
+
+.rectangle-2{
+    width: 400px;
+    height: 320px;
+    background-color: rgb(223, 223, 223);
+    position: absolute;
+    left: 55px;
+    bottom: 280px;
+    
+
+
+}
+
+.rectangle-3{
+    width: 340px;
+    height: 60px;
+    background-color: red;
+    left: 85px;
+    position: absolute;
+    bottom: 520px;
+}
+ .rectangle-4{
+    width: 340px;
+    height: 60px;
+    background-color: red;
+    left:85px;
+    position: absolute;
+    bottom: 420px;
+
+ }
+
+ .rectangle-5{
+    width: 340px;
+    height: 70px;
+    background-color: red;
+    left:85px;
+    position: absolute;
+    bottom: 315px;
+
+ }
+
+
+
+.body{
+    padding-left: 100px;
+}    
+
+.rectangle-6{
+    width: 300px;
+    height: 35px;
+    background-color: white;
+    left:105px;
+    position: absolute;
+    bottom: 533px; 
+}
+
+.rectangle-7{
+    width: 300px;
+    height: 40px;
+    background-color: white;
+    left:105px;
+    position: absolute;
+    bottom: 430px; 
+}
+
+.rectangle-8{
+    width: 300px;
+    height: 40px;
+    background-color: white;
+    left:105px;
+    position: absolute;
+    bottom: 330px; 
+}
+.sometext-1{
+    font-size: 20px;
+    font-family: Arial;
+    position: absolute;
+    margin-left: 110px;
+    bottom: 540px;
+    
+}
+
+.sometext-2{
+    font-size: 20px;
+    font-family: Arial;
+    position: absolute;
+    margin-left: 110px;
+    bottom: 440px;
+
+}
+
+.sometext-3{
+    font-size: 20px;
+    font-family: Arial;
+    position: absolute;
+    margin-left: 110px;
+    bottom: 340px;
+
+}

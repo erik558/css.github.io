@@ -1,0 +1,33 @@
+.box{
+    width: 300px;
+    height: 300px;
+    background: #FF0000;
+    position: absolute;
+    top: 150px;
+    left: 550px;
+    border-radius:10% ;
+}
+.box::before{
+    content: "";
+    background: #7CFC00;
+    width: 400px;
+    height: 300px;
+    position: absolute;
+    left: -300px;
+    z-index: 1;
+    border-top-left-radius: 40px;
+    border-bottom-left-radius: 40px; 
+}
+.box::after{
+    content: "";
+    background: #808080;
+    width: 50px;
+    height: 150px;
+    position: absolute;
+    top: 80px;
+    left: 300px;
+    margin: auto;
+    z-index: 1;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px; 
+}
